@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
 <br />
 <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
-<img src="https://img.shields.io/github/stars/c0de4un/vue-sales-crm-client" />
+<img src="https://img.shields.io/github/stars/c0de4un/dev-crm" />
 </p>
 
 ## About
