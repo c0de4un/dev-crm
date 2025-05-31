@@ -24,3 +24,5 @@ Homestead.yaml
 npm-debug.log
 Thumbs.db
 yarn-error.log
+resources/js/.vscode/*
+resources/js/node_modules/*
